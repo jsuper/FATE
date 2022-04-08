@@ -1,5 +1,6 @@
 mkdocs-material==7.3.0
 mkdocs-jupyter==0.18.0
+ipython_genutils
 python-markdown-math==0.8
 mkdocs-static-i18n
 mkdocstrings
